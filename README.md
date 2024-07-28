@@ -4,6 +4,9 @@
 
 This project involves training Generative Adversarial Networks (GANs) on the MNIST handwritten digits dataset to generate images of handwritten digits similar to those in the dataset. GANs consist of two neural networks, a generator and a discriminator, that are trained together to produce realistic synthetic data.
 
+![image](https://github.com/user-attachments/assets/8e4d8c2a-32c6-4b55-a7df-5e3e508af6b6)
+
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
