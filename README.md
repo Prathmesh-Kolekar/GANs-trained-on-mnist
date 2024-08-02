@@ -1,6 +1,6 @@
 ---
 
-# Generative Adversarial Networks (GANs) on Fashion MNIST
+# Generative Adversarial Networks (GANs) on MNIST
 
 This project involves training Generative Adversarial Networks (GANs) on the MNIST handwritten digits dataset to generate images of handwritten digits similar to those in the dataset. GANs consist of two neural networks, a generator and a discriminator, that are trained together to produce realistic synthetic data.
 
